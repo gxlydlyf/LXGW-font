@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "LXGWWenKai";
+    src: url(./eot/LXGWWenKai-Bold.eot);
+    src: local('☺'),
+    url(./eot/LXGWWenKai-Bold.eot?#iefix) format('embedded-opentype'),
+    url(./woff/LXGWWenKai-Bold.woff) format('woff'),
+    url(./ttf/LXGWWenKai-Bold.ttf) format('truetype'),
+    url(./svg/LXGWWenKai-Bold.svg#webfontOTINA1xY) format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LXGWWenKai";
+    src: url(./eot/LXGWWenKai-Light.eot);
+    src: local('☺'),
+    url(./eot/LXGWWenKai-Light.eot?#iefix) format('embedded-opentype'),
+    url(./woff/LXGWWenKai-Light.woff) format('woff'),
+    url(./ttf/LXGWWenKai-Light.ttf) format('truetype'),
+    url(./svg/LXGWWenKai-Light.svg#webfontOTINA1xY) format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LXGWWenKai";
+    src: url(./eot/LXGWWenKai-Regular.eot);
+    src: local('☺'),
+    url(./eot/LXGWWenKai-Regular.eot?#iefix) format('embedded-opentype'),
+    url(./woff/LXGWWenKai-Regular.woff) format('woff'),
+    url(./ttf/LXGWWenKai-Regular.ttf) format('truetype'),
+    url(./svg/LXGWWenKai-Regular.svg#webfontOTINA1xY) format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LXGWWenKaiMono";
+    src: url(./eot/LXGWWenKaiMono-Bold.eot);
+    src: local('☺'),
+    url(./eot/LXGWWenKaiMono-Bold.eot?#iefix) format('embedded-opentype'),
+    url(./woff/LXGWWenKaiMono-Bold.woff) format('woff'),
+    url(./ttf/LXGWWenKaiMono-Bold.ttf) format('truetype'),
+    url(./svg/LXGWWenKaiMono-Bold.svg#webfontOTINA1xY) format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LXGWWenKaiMono";
+    src: url(./eot/LXGWWenKai-Light.eot);
+    src: local('☺'),
+    url(./eot/LXGWWenKaiMono-Light.eot?#iefix) format('embedded-opentype'),
+    url(./woff/LXGWWenKaiMono-Light.woff) format('woff'),
+    url(./ttf/LXGWWenKaiMono-Light.ttf) format('truetype'),
+    url(./svg/LXGWWenKaiMono-Light.svg#webfontOTINA1xY) format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LXGWWenKaiMono";
+    src: url(./eot/LXGWWenKai-Regular.eot);
+    src: local('☺'),
+    url(./eot/LXGWWenKaiMono-Regular.eot?#iefix) format('embedded-opentype'),
+    url(./woff/LXGWWenKaiMono-Regular.woff) format('woff'),
+    url(./ttf/LXGWWenKaiMono-Regular.ttf) format('truetype'),
+    url(./svg/LXGWWenKaiMono-Regular.svg#webfontOTINA1xY) format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
