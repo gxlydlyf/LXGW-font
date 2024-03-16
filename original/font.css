@@ -1,7 +1,7 @@
 @font-face {
     font-family: "LXGWWenKai";
     src: url(./eot/LXGWWenKai-Bold.eot);
-    src: local('☺'),
+    src: local("LXGW WenKai"),
     url(./eot/LXGWWenKai-Bold.eot?#iefix) format('embedded-opentype'),
     url(./woff2/LXGWWenKai-Bold.woff2) format('woff2'),
     url(./woff/LXGWWenKai-Bold.woff) format('woff'),
@@ -14,7 +14,7 @@
 @font-face {
     font-family: "LXGWWenKai";
     src: url(./eot/LXGWWenKai-Light.eot);
-    src: local('☺'),
+    src: local("LXGW WenKai"),
     url(./eot/LXGWWenKai-Light.eot?#iefix) format('embedded-opentype'),
     url(./woff2/LXGWWenKai-Light.woff2) format('woff2'),
     url(./woff/LXGWWenKai-Light.woff) format('woff'),
@@ -27,7 +27,7 @@
 @font-face {
     font-family: "LXGWWenKai";
     src: url(./eot/LXGWWenKai-Regular.eot);
-    src: local('☺'),
+    src: local("LXGW WenKai"),
     url(./eot/LXGWWenKai-Regular.eot?#iefix) format('embedded-opentype'),
     url(./woff2/LXGWWenKai-Regular.woff2) format('woff2'),
     url(./woff/LXGWWenKai-Regular.woff) format('woff'),
@@ -40,7 +40,7 @@
 @font-face {
     font-family: "LXGWWenKaiMono";
     src: url(./eot/LXGWWenKaiMono-Bold.eot);
-    src: local('☺'),
+    src: local("LXGW WenKai"),
     url(./eot/LXGWWenKaiMono-Bold.eot?#iefix) format('embedded-opentype'),
     url(./woff2/LXGWWenKaiMono-Bold.woff2) format('woff2'),
     url(./woff/LXGWWenKaiMono-Bold.woff) format('woff'),
@@ -53,7 +53,7 @@
 @font-face {
     font-family: "LXGWWenKaiMono";
     src: url(./eot/LXGWWenKaiMono-Light.eot);
-    src: local('☺'),
+    src: local("LXGW WenKai"),
     url(./eot/LXGWWenKaiMono-Light.eot?#iefix) format('embedded-opentype'),
     url(./woff2/LXGWWenKaiMono-Light.woff2) format('woff2'),
     url(./woff/LXGWWenKaiMono-Light.woff) format('woff'),
@@ -66,7 +66,7 @@
 @font-face {
     font-family: "LXGWWenKaiMono";
     src: url(./eot/LXGWWenKaiMono-Regular.eot);
-    src: local('☺'),
+    src: local("LXGW WenKai"),
     url(./eot/LXGWWenKaiMono-Regular.eot?#iefix) format('embedded-opentype'),
     url(./woff2/LXGWWenKaiMono-Regular.woff2) format('woff2'),
     url(./woff/LXGWWenKaiMono-Regular.woff) format('woff'),
