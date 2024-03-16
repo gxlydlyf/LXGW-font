@@ -6,7 +6,7 @@
     url(./woff2/LXGWWenKai-Bold.woff2) format('woff2'),
     url(./woff/LXGWWenKai-Bold.woff) format('woff'),
     url(./ttf/LXGWWenKai-Bold.ttf) format('truetype'),
-    url(./svg/LXGWWenKai-Bold.svg#webfontOTINA1xY) format('svg');
+    url(./svg/LXGWWenKai-Bold.svg#webfontLXGWWenKai) format('svg');
     font-weight: bold;
     font-style: normal;
 }
@@ -19,7 +19,7 @@
     url(./woff2/LXGWWenKai-Light.woff2) format('woff2'),
     url(./woff/LXGWWenKai-Light.woff) format('woff'),
     url(./ttf/LXGWWenKai-Light.ttf) format('truetype'),
-    url(./svg/LXGWWenKai-Light.svg#webfontOTINA1xY) format('svg');
+    url(./svg/LXGWWenKai-Light.svg#webfontLXGWWenKai) format('svg');
     font-weight: 300;
     font-style: normal;
 }
@@ -32,7 +32,7 @@
     url(./woff2/LXGWWenKai-Regular.woff2) format('woff2'),
     url(./woff/LXGWWenKai-Regular.woff) format('woff'),
     url(./ttf/LXGWWenKai-Regular.ttf) format('truetype'),
-    url(./svg/LXGWWenKai-Regular.svg#webfontOTINA1xY) format('svg');
+    url(./svg/LXGWWenKai-Regular.svg#webfontLXGWWenKai) format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -45,7 +45,7 @@
     url(./woff2/LXGWWenKaiMono-Bold.woff2) format('woff2'),
     url(./woff/LXGWWenKaiMono-Bold.woff) format('woff'),
     url(./ttf/LXGWWenKaiMono-Bold.ttf) format('truetype'),
-    url(./svg/LXGWWenKaiMono-Bold.svg#webfontOTINA1xY) format('svg');
+    url(./svg/LXGWWenKaiMono-Bold.svg#webfontLXGWWenKai) format('svg');
     font-weight: bold;
     font-style: normal;
 }
@@ -58,7 +58,7 @@
     url(./woff2/LXGWWenKaiMono-Light.woff2) format('woff2'),
     url(./woff/LXGWWenKaiMono-Light.woff) format('woff'),
     url(./ttf/LXGWWenKaiMono-Light.ttf) format('truetype'),
-    url(./svg/LXGWWenKaiMono-Light.svg#webfontOTINA1xY) format('svg');
+    url(./svg/LXGWWenKaiMono-Light.svg#webfontLXGWWenKai) format('svg');
     font-weight: 300;
     font-style: normal;
 }
@@ -71,7 +71,7 @@
     url(./woff2/LXGWWenKaiMono-Regular.woff2) format('woff2'),
     url(./woff/LXGWWenKaiMono-Regular.woff) format('woff'),
     url(./ttf/LXGWWenKaiMono-Regular.ttf) format('truetype'),
-    url(./svg/LXGWWenKaiMono-Regular.svg#webfontOTINA1xY) format('svg');
+    url(./svg/LXGWWenKaiMono-Regular.svg#webfontLXGWWenKai) format('svg');
     font-weight: normal;
     font-style: normal;
 }
