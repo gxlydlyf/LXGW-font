@@ -1,7 +1,7 @@
 @font-face {
     font-family: "LXGWWenKai", "霞鹜文楷";
     src: url(./eot/LXGWWenKaiLite-Bold.eot);
-    src: local('LXGWWenKaiLite'),
+    src: local("霞鹜文楷 轻便版"),
     url(./eot/LXGWWenKaiLite-Bold.eot?#iefix) format('embedded-opentype'),
     url(./woff2/LXGWWenKaiLite-Bold.woff2) format('woff2'),
     url(./woff/LXGWWenKaiLite-Bold.woff) format('woff'),
@@ -14,7 +14,7 @@
 @font-face {
     font-family: "LXGWWenKai", "霞鹜文楷";
     src: url(./eot/LXGWWenKaiLite-Light.eot);
-    src: local('LXGWWenKaiLite'),
+    src: local("霞鹜文楷 轻便版"),
     url(./eot/LXGWWenKaiLite-Light.eot?#iefix) format('embedded-opentype'),
     url(./woff2/LXGWWenKaiLite-Light.woff2) format('woff2'),
     url(./woff/LXGWWenKaiLite-Light.woff) format('woff'),
@@ -27,7 +27,7 @@
 @font-face {
     font-family: "LXGWWenKai", "霞鹜文楷";
     src: url(./eot/LXGWWenKaiLite-Regular.eot);
-    src: local('LXGWWenKaiLite'),
+    src: local("霞鹜文楷 轻便版"),
     url(./eot/LXGWWenKaiLite-Regular.eot?#iefix) format('embedded-opentype'),
     url(./woff2/LXGWWenKaiLite-Regular.woff2) format('woff2'),
     url(./woff/LXGWWenKaiLite-Regular.woff) format('woff'),
@@ -40,7 +40,7 @@
 @font-face {
     font-family: "LXGWWenKaiMono", "霞鹜文楷等宽", "霞鹜文楷 等宽", "霞鹜文楷-等宽";
     src: url(./eot/LXGWWenKaiMonoLite-Bold.eot);
-    src: local('LXGWWenKaiLite'),
+    src: local("霞鹜文楷 轻便版"),
     url(./eot/LXGWWenKaiMonoLite-Bold.eot?#iefix) format('embedded-opentype'),
     url(./woff2/LXGWWenKaiMonoLite-Bold.woff2) format('woff2'),
     url(./woff/LXGWWenKaiMonoLite-Bold.woff) format('woff'),
@@ -53,7 +53,7 @@
 @font-face {
     font-family: "LXGWWenKaiMono", "霞鹜文楷等宽", "霞鹜文楷 等宽", "霞鹜文楷-等宽";
     src: url(./eot/LXGWWenKaiMonoLite-Light.eot);
-    src: local('LXGWWenKaiLite'),
+    src: local("霞鹜文楷 轻便版"),
     url(./eot/LXGWWenKaiMonoLite-Light.eot?#iefix) format('embedded-opentype'),
     url(./woff2/LXGWWenKaiMonoLite-Light.woff2) format('woff2'),
     url(./woff/LXGWWenKaiMonoLite-Light.woff) format('woff'),
@@ -66,7 +66,7 @@
 @font-face {
     font-family: "LXGWWenKaiMono", "霞鹜文楷等宽", "霞鹜文楷 等宽", "霞鹜文楷-等宽";
     src: url(./eot/LXGWWenKaiMonoLite-Regular.eot);
-    src: local('LXGWWenKaiLite'),
+    src: local("霞鹜文楷 轻便版"),
     url(./eot/LXGWWenKaiMonoLite-Regular.eot?#iefix) format('embedded-opentype'),
     url(./woff2/LXGWWenKaiMonoLite-Regular.woff2) format('woff2'),
     url(./woff/LXGWWenKaiMonoLite-Regular.woff) format('woff'),
