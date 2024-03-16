@@ -7,7 +7,7 @@
     url(./woff/LXGWWenKaiLite-Bold.woff) format('woff'),
     url(./ttf/LXGWWenKaiLite-Bold.ttf) format('truetype'),
     url(./svg/LXGWWenKaiLite-Bold.svg#webfontOTINA1xY) format('svg');
-    font-weight: 400;
+    font-weight: bold;
     font-style: normal;
 }
 
